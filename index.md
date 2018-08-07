@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# SniperSight Website
+
+This is the website for the SniperSight app.
+
+## GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SniperSight/SniperSight/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
